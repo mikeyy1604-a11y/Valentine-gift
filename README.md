@@ -157,9 +157,9 @@
     <div class="tag">Confidential</div>
     <div class="divider"></div>
     <div class="label">Patient</div>
-    <div class="content">One (1) very lucky girlfriend-Nairitya</div>
+    <div class="content">One (1) very lucky girlfriend-Krisha</div>
     <div class="label">Attending Physician</div>
-    <div class="content">Dr.Ramansh🩺</div>
+    <div class="content">Dr.Aditya🩺</div>
     <div class="btn-container">
         <button onclick="next()">Open Case</button>
     </div>
@@ -258,7 +258,7 @@
         <div class="content">
             <strong>Date:</strong> February 14<br>
             <strong>Time:</strong> 8:00 PM<br>
-            <strong>Location:</strong> video call❤️<br><br>
+            <strong>Location:</strong> wherever you want❤️<br><br>
             Side effects may include: Intense eye contact, endless smiling, uncontrollable laughter, food cravings, and feeling incredibly lucky.<br><br>
             Cant wait to see your pretty face again.💖
         </div>
